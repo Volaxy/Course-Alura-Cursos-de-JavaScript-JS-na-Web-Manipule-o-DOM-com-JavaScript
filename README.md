@@ -25,3 +25,12 @@ URL do curso -> [JS na Web: Manipule o DOM com JavaScript](https://cursos.alura.
 * Prevenir o comportamento padrão do formulário.
 
 ## 03 - Adicionar Items na Lista
+* Utilizar **template strings**.
+* Colocar um elemento filho dentro do elemento pai utilizando o método **appendChild**.
+* Criar elementos utilizando o método **createElement**.
+
+## 04 - Concluir Tarefa
+* Adicionar classe CSS utilizando o método `toggle`.
+* Utilizar o atributo `parentElement` para subir um elemento na árvore do DOM.
+* Encontrar o alvo do evento utilizando a propriedade `target`.
+* Utilizar IIFE.
