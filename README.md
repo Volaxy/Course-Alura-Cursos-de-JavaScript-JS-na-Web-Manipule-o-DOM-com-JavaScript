@@ -23,3 +23,5 @@ URL do curso -> [JS na Web: Manipule o DOM com JavaScript](https://cursos.alura.
 * Utilizar data-attributes.
 * Utilizar o método `addEventListener` para escutar eventos no elemento.
 * Prevenir o comportamento padrão do formulário.
+
+## 03 - Adicionar Items na Lista

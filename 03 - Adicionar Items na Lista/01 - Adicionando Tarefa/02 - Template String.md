@@ -1,0 +1,1 @@
+Utilizamos `template strings` durante a nossa aplicação para criar um template de um parágrafo. Para entender mais a fundo essa funcionalidade da versão ES6 do Javascript, confira esse [Alura+](https://cursos.alura.com.br/extra/alura-mais/template-string-c123).
