@@ -1,0 +1,1 @@
+Utilizamos `data-attributes` no HTML da nossa aplicação para separar responsabilidades entre **Javascript** e **CSS**. Para entender mais a fundo essa propriedade, confira esse [Alura+](https://cursos.alura.com.br/extra/alura-mais/data-attributes-do-html5-c109).

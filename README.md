@@ -18,3 +18,8 @@ URL do curso -> [JS na Web: Manipule o DOM com JavaScript](https://cursos.alura.
 * Percorrer a árvore do DOM.
 * Utilizar o `querySelector` para selecionar elementos da árvore do DOM.
 * Funcionamento da estrutura do **DOM**.
+
+## 02 - Comportamento do Formulário
+* Utilizar data-attributes.
+* Utilizar o método `addEventListener` para escutar eventos no elemento.
+* Prevenir o comportamento padrão do formulário.
