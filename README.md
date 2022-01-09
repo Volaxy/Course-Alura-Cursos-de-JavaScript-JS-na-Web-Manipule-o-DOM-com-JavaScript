@@ -34,3 +34,8 @@ URL do curso -> [JS na Web: Manipule o DOM com JavaScript](https://cursos.alura.
 * Utilizar o atributo `parentElement` para subir um elemento na árvore do DOM.
 * Encontrar o alvo do evento utilizando a propriedade `target`.
 * Utilizar IIFE.
+
+## 05 - Remover Tarefa
+* Utilizar import/export.
+* Remover elementos do DOM com o método `remove`.
+* Entender Same Origin Police e CORS.
